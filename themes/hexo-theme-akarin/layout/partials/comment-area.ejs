@@ -1,0 +1,12 @@
+<% if (theme.comment.livere.enable && theme.comment.livere.uid) { %>
+    <div id="lv-container" class="mdui-color-white mdui-p-a-3" data-id="city" data-uid="<%= theme.comment.livere.uid %>">
+        <script>
+            (() => {
+                const script = document.createElement('script');
+                script.src = 'https://cdn-city.livere.com/js/embed.dist.js';
+                script.async = true;
+                document.body.appendChild(script);
+            })()
+        </script>
+    </div>
+<% } %>

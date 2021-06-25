@@ -1,0 +1,97 @@
+drawer:
+    caption: ✨ An amazing thing is waiting! ✨
+    menu:
+        Home:
+            href: /
+            icon: home
+        About:
+            href: /about
+            icon: person
+        Friends Chain:
+            href: /friend
+            icon: link
+        Archive:
+            preset: archive
+        Want minimal styles?:
+            href: http://old-blog.helloyeew.dev/
+            icon: open_in_new
+        RSS:
+            preset: rss
+            divider: true
+        Dark mode:
+            preset: dark
+        访问统计:
+            preset: stats_busuanzi
+
+# TODO: Change icon
+
+head:
+    favicon: /images/favicon.png
+    high_res_favicon: /images/favicon.png
+    apple_touch_icon: /images/favicon.png
+    keywords:
+    structured_data: true
+    site_verification:
+        google:
+        baidu:
+
+footer:
+    since: 2020
+    text: Hosted by <a href="https://vercel.com/" target="_blank">Vercel</a>
+
+uiux:
+    slogan: Why you don't click that circle? Just click it *circle clicked noise*
+    sidebar_image: /images/801979.png
+    sidebar_image_color: '#ff66aa'
+    banner_image: /images/961200.png
+    banner_image_color: '#ff66aa'
+    avatar: /images/KasumiIcon.jpg
+    mdui_primary_theme: pink
+    mdui_accent_theme: pink
+    post_thumbnail_color: '#ff66aa'
+    copy_code_button_color: '#fff'
+    top:
+        enable: true
+        style: fab
+#         style: akarin
+
+posts:
+    default_excerpt: 120
+    license: This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
+
+links:
+    default_avatar: /images/KasumiIcon.jpg
+    description: Sometimes it's good if someone notice this place (づ｡◕‿‿◕｡)づ. </br> If you want to shere your awesome place you can contact me. It can be your GitHub, blog or some awesome project! <a href="mailto:me@helloyeew.dev?subject=[Request Friend Chain]">Letsu goooo!</a>
+    list:
+        HelloYeew:
+            link: https://github.com/HelloYeew
+            avatar: /images/KasumiIcon.jpg
+            description: It's me!
+
+comment:
+    livere:
+        enable: false
+        uid:
+
+stats:
+    busuanzi:
+        enable: false
+        script: https://cdn.jsdelivr.net/gh/TransparentLC/hexo-theme-akarin/source/js/bsz.min.js
+        site_uv: true
+        site_pv: true
+        page_pv: true
+
+mathjax:
+
+rss:
+
+stylesheets:
+- /css/mdui.min.css
+- /css/prism-line-numbers.min.css
+- /css/prism-vsc-dark-plus.min.css
+- /css/style.css
+
+scripts:
+- /js/mdui.min.js
+- /js/medium-zoom.min.js
+- /js/script.js
