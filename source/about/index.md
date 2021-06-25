@@ -22,7 +22,7 @@ thumbnail: /images/729155.jpeg
 
 # Why move to new site?
 
-Sometimes I need more 'color' in my blog. Narrative theme is awesome, and I love it too, so I decide to make it as `an old blog` and when I want to upload a new post I will upload in both site.
+Sometimes I need more 'color' in my blog. Narrative theme is awesome, and I love it too, so I decide to make it as `an old blog` and when I want to upload a new post I will upload in both site. (And I want to move my blog to GitHub pages too.)
 
 You can see my old blog [here](https://old-blog.helloyeew.dev/)
 
