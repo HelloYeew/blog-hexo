@@ -37,7 +37,7 @@ head:
 
 footer:
     since: 2020
-    text: Hosted by <a href="https://vercel.com/" target="_blank">Vercel</a>
+    text: Hosted by <a href="https://www.netlify.com/ target="_blank">Netlify</a>
 
 uiux:
     slogan: Why you don't click that circle? Just click it *circle clicked noise*
